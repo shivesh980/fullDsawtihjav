@@ -1,6 +1,6 @@
 import java.util.Arrays;
 
-public class minin2d {
+public class search2dlinear {
     public static void main(String[] args) {
         int arr[][]={{12,13,14},{23,243,221,6},{10,3,21,4}};
         int k=6;
